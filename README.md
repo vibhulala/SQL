@@ -12,16 +12,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vibhulala/SQL/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vibhulala/SQL/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vibhulala/SQL/tree/master/1441-build-an-array-with-stack-operations) |
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vibhulala/SQL/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vibhulala/SQL/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vibhulala/SQL/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/vibhulala/SQL/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vibhulala/SQL/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vibhulala/SQL/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
