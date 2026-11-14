@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vibhulala/SQL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0735-asteroid-collision](https://github.com/vibhulala/SQL/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vibhulala/SQL/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vibhulala/SQL/tree/master/0946-validate-stack-sequences) |
@@ -33,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/vibhulala/SQL/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vibhulala/SQL/tree/master/0350-intersection-of-two-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vibhulala/SQL/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vibhulala/SQL/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vibhulala/SQL/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
