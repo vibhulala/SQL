@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vibhulala/SQL/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vibhulala/SQL/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vibhulala/SQL/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vibhulala/SQL/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vibhulala/SQL/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vibhulala/SQL/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vibhulala/SQL/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
