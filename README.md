@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/vibhulala/SQL/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vibhulala/SQL/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vibhulala/SQL/tree/master/0946-validate-stack-sequences) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/vibhulala/SQL/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -54,5 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vibhulala/SQL/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
