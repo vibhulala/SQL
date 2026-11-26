@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vibhulala/SQL/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vibhulala/SQL/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vibhulala/SQL/tree/master/1441-build-an-array-with-stack-operations) |
+| [3174-clear-digits](https://github.com/vibhulala/SQL/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vibhulala/SQL/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vibhulala/SQL/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vibhulala/SQL/tree/master/1441-build-an-array-with-stack-operations) |
+| [3174-clear-digits](https://github.com/vibhulala/SQL/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vibhulala/SQL/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vibhulala/SQL/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [3174-clear-digits](https://github.com/vibhulala/SQL/tree/master/3174-clear-digits) |
 ## Greedy
 |  |
 | ------- |
