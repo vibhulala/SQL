@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/vibhulala/SQL/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/vibhulala/SQL/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vibhulala/SQL/tree/master/0739-daily-temperatures) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/vibhulala/SQL/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/vibhulala/SQL/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/vibhulala/SQL/tree/master/0907-sum-of-subarray-minimums) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/vibhulala/SQL/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vibhulala/SQL/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vibhulala/SQL/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/vibhulala/SQL/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/vibhulala/SQL/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
